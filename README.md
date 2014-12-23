@@ -1,4 +1,4 @@
-my_first_web_component
+Polymer-Tutorial
 ======================
 
 Web component of Polymer tutorial 
